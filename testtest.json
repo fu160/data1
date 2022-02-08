@@ -9,20 +9,7 @@
           "children": [
             {
               "name": "4thlevel-1",
-              "children": [
-                {
-                  "name": "5thLevel1",
-                  "colname": "level5"
-                },
-                {
-                  "name": "5thLevel2",
-                  "colname": "level5"
-                },
-                {
-                  "name": "5thLevel33",
-                  "colname": "level5"
-                }
-              ],
+             
               "colname": "level4"
             },
             {
