@@ -3,7 +3,11 @@
         "name": "son1",
         "children": [{
             "name": "mister_a",
-            "colname": "level3"
+            "colname": "level3",
+            "children" : [
+                     "name": "4th level",
+                    "colname": "level4",
+            ]
         }, {
             "name": "mister_b",
             "colname": "level3"
