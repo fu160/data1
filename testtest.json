@@ -5,8 +5,12 @@
             "name": "mister_a",
             "colname": "level3",
             "children" : [
-                     "name": "4th level",
-                    "colname": "level4",
+                { "name": "4th level-1",
+                    "colname": "level4"
+                },
+                { "name": "4th level-2",
+                    "colname": "level4"
+                }
             ]
         }, {
             "name": "mister_b",
