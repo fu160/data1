@@ -8,7 +8,7 @@
                 {
                     "name": "4thlevel-1",
                     
-                    "children" [
+                    "children": [
                         {
                             "name": "5thLevel1",
                             "colname": "level5"
